@@ -1,4 +1,4 @@
-from functools import zip_longest
+from itertools import zip_longest
 import unittest
 import pytest
 
